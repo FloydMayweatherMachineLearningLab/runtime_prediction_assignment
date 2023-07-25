@@ -33,6 +33,8 @@ Please ensure that your submission includes the following components:
 
 2. **"y_preds.csv" File:** Provide a CSV file named "y_preds.csv" that contains the predicted run time buckets in hours for the test set.
 
+To submit your solution please download the notebook in a _.ipynb_ format and predictions CSV file and send it via email. 
+
 ## Scoring
 
 We have provided a function in the notebook to calculate the score based on a list of y_predictions and y_labels. 
